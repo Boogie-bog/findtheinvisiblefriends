@@ -1,0 +1,31 @@
+#titleBanner{
+    border: 1px solid black;
+    background-color: white;
+    width: 1408px;
+    height: 100;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+
+#littleSpace{
+    height: 3px;
+}
+
+#gameInfo{
+    border: 1px solid black;
+    background-color: rgb(164, 178, 240);
+}
+
+#gameScreen{
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+}
+
+img{
+    display: none;
+}
+
+#test{
+    color: rgb(51, 51, 187);
+}
+
